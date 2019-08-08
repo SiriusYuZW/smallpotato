@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @author daofeng.xjf
+ * @author xiaotudou
  *
  * 负载均衡扩展接口
  * 必选接口，核心接口
